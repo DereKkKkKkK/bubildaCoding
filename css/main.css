@@ -1,4 +1,11 @@
-.text {
-    color:blueviolet;
-    font-size: 30px;
+.header .cities__link {
+  color: red;
+}
+
+.header>.header__navigation {
+  background-color: rgb(229, 229, 229);
+}
+
+input:checked  ~ label {
+  
 }
